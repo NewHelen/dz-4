@@ -4,7 +4,7 @@ public class Main {
 
         ClassSalary salary = new ClassSalary();
 
-        System.out.println("~~~ <повернене значення> “~~~" + salary.getString());
+        System.out.println(salary.getIntVal1());
 
     }
 }

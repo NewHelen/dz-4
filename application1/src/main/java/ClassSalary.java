@@ -2,8 +2,8 @@ public class ClassSalary {
 
     public int intVal1 = 100;
 
-
-    public String getString() {
-        return "---<значення поля>---" + intVal1;
+    public int getIntVal1() {
+        System.out.println("---<значення поля>---");
+        return intVal1;
     }
 }
