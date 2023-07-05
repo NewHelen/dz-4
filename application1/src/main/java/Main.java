@@ -4,7 +4,7 @@ public class Main {
 
         ClassSalary salary = new ClassSalary();
 
-        salary.getIntVal1();
+        System.out.println("~~~<"+ salary.getIntVal1() +">~~~");
 
     }
 }
