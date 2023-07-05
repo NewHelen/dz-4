@@ -4,7 +4,7 @@ public class Main {
 
         ClassSalary salary = new ClassSalary();
 
-        System.out.println(salary.getIntVal1());
+        salary.getIntVal1();
 
     }
 }
